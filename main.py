@@ -91,17 +91,20 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Medical Technology), *Mahidol University*, Thailand',
-'2002-2006')
+txt('**Quantitative Finance with Python** (Complete), *UCEMA*',
+'2020-2021')
 st.markdown('''
-- GPA: `3.89`
-- Research thesis entitled `Computer-aided molecular design for biological and chemical applications : Quantum chemical and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
-- Thesis awarded `1st` Prize by the National Research Council of Thailand.
+- I worked on algorithmic trading bots in the cryptocurrency market.
+''')
+
+txt('**Computer Engineering** (Incomplete), *UNNOBA*, Pergamino, Buenos Aires (ARG)',
+'2016-2019')
+st.markdown('''
+- 
 ''')
 
 txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+'-2002')
 st.markdown('''
 - GPA: `3.65`
 - Graduated with First Class Honors.
